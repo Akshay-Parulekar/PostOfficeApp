@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_mis.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_misactivity.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_nsc.xml" value="0.2328125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_ppf.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_rd.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_rdactivity.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_scss.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_ssy.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_td.xml" value="0.21875" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/app_bar_main.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/content_main.xml" value="0.2328125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/fragment_calculator.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/fragment_pincode.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.2328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
