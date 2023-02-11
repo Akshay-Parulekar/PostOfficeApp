@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/drawable/empty_tall_divider.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_mis.xml" value="0.22" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_misactivity.xml" value="0.14444444444444443" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/activity_calculator_nsc.xml" value="0.2328125" />
@@ -16,7 +17,8 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/content_main.xml" value="0.2328125" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/fragment_calculator.xml" value="0.14444444444444443" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/fragment_home.xml" value="0.25" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/fragment_pincode.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/fragment_pincode.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/layout/row_pincode_details.xml" value="0.21264367816091953" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/PostOfficeApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.2328125" />
       </map>
     </option>

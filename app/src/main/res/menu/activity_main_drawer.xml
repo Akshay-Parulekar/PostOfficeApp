@@ -7,14 +7,14 @@
         <item
             android:id="@+id/nav_interest_calculator"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:title="Interest Calculator" />
         <item
             android:id="@+id/nav_pincode"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:title="Pincode Tracking" />
         <item
             android:id="@+id/nav_article_tracking"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:title="Article Tracking" />
     </group>
 </menu>
